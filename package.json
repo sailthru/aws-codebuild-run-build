@@ -1,6 +1,6 @@
 {
-  "name": "@aws-actions/codebuild-run-build",
-  "version": "1.0.4",
+  "name": "@sailthru/codebuild-run-build",
+  "version": "8",
   "description": "Execute CodeBuild::startBuild for the current repo.",
   "main": "dist/index.js",
   "scripts": {
